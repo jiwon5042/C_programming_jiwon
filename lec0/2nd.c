@@ -3,7 +3,7 @@
 int main()
 {
     // 주석주석주석주석
-    printf( "Hello World\n");
+    printf("\n\nHello World\n\n\n");
     /*
     여러 줄의 주석주석주석줏ㄱ적쉊구섲구서주거수저구서죽서ㅜ저구서죽서
     */
